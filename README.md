@@ -10,7 +10,7 @@ Exemple  : personnalité (blogueur, coach ...), livre de non fiction , applicati
 Ces références permettront à tous d'avoir des opportunités d'apprendre et de faire de nouvelle chose (dans un but de progrès) et donc de pouvoir être plus chanceux car la chance ces savoirs saisir les opportunités :)
 
 ### La page
-Pour editer cette page aller sur [l'editeur](https://github.com/VictorPeghaire/Developpement-Personnel/edit/master/README.md)
+Pour editer cette page aller sur [l'editeur](https://github.com/VictorAI/Developpement-Personnel/edit/master/README.md)
 
 Il n'y a pas besoin de savoir codé :)
 
@@ -23,6 +23,10 @@ Vous pouvez retrouver cette page en tapant sur Github  developpement personnel.
 Vous êtes libre de mettre des liens affiliés !
 
 Github est un gestionnaire de versions collaborative. Plus d'info sur la [gestion de versions](https://fr.wikipedia.org/wiki/Gestion_de_versions)
+
+
+
+
 # Personnalité
 ***
 ## Olivier Roland
@@ -148,6 +152,20 @@ _Italic_
 ![Image](lien)
 
 ### Faire un trait de separation
+***
+
+## Moi
+
+J'ai 19 ans et je suis actuellement en dut informatique.
+
+Je suis passionné par l'informatique, en particulier par l'intelligence artificielle et le développement logiciel.
+
+J'aime également le développement personnel et l'entreprenariat.
+
+Si vous avez des questions à propos de cette page ou même pour autre chose, pensé à  me contacter :) 
+
+Mon email : vic.peghaire@laposte.net
+
 ***
 
 ### Jekyll Themes
