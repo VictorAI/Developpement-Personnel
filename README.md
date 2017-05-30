@@ -14,7 +14,7 @@ Pour editer cette page aller sur [l'editeur](https://github.com/VictorAI/Develop
 
 Il n'y a pas besoin de savoir codé :)
 
-Lien vers [Le site web](https://victorpeghaire.github.io/Developpement-Personnel/)
+Lien vers [Le site web](https://victorai.github.io/Developpement-Personnel/)
 
 Vous pouvez ajouter/ameliorer des articles, ajouter des categories et corriger l'orthographe.
 
