@@ -56,7 +56,7 @@ __Business__ & __Developpement_Personnel__
 
 ![Image](https://images-eu.ssl-images-amazon.com/images/I/51cC-CinJHL._AC_AC_SR98,95_.jpg)
 
-[Lien vers le livre](https://www.amazon.fr/gp/product/B01EW8YO2A/ref=as_li_qf_br_asin_il_tl?ie=UTF8&tag=gitdevel-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B01EW8YO2A&linkId=7772d7e070c0729a57c20cad5997344f)
+[Lien vers le livre](https://www.amazon.fr/Tout-monde-chance-rater-%C3%A9tudes/dp/B01EW8YO2A)
 
 Je recommande vivement ce livre.
 
@@ -85,7 +85,7 @@ RETROUVEZ :
 
 - Des exemples concrets et des cas pratiques, appuyés par la science
 
-[Lien vers le livre](https://www.amazon.fr/gp/product/B01EW8YO2A/ref=as_li_qf_br_asin_il_tl?ie=UTF8&tag=gitdevel-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B01EW8YO2A&linkId=7772d7e070c0729a57c20cad5997344f)
+[Lien vers le livre](https://www.amazon.fr/Tout-monde-chance-rater-%C3%A9tudes/dp/B01EW8YO2A)
 
 ***
 
