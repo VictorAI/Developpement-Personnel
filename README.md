@@ -154,16 +154,6 @@ _Italic_
 ### Faire un trait de separation
 ***
 
-## Moi
-
-J'ai 19 ans et je suis actuellement en dut informatique.
-
-Je suis passionné par l'informatique, en particulier par l'intelligence artificielle et le développement logiciel.
-
-J'aime également le développement personnel et l'entreprenariat.
-
-Si vous avez des questions à propos de cette page ou même pour autre chose, pensé à  me contacter :) 
-
 Mon email : vic.peghaire@laposte.net
 
 ***
